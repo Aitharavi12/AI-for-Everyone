@@ -1,2 +1,2 @@
-# AI-for-Everyone
-Coursera AI fundamentals
+# SUDOKO
+Sudoko solver using c
